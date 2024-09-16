@@ -21,12 +21,4 @@ public class Student {
     }
     
     
-    public String getaddress() {
-        return name;
-    }
-
-    public void setaddress(String add) {
-        this.address = add;
-    }
-   
 }
