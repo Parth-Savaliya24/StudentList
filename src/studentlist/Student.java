@@ -26,8 +26,7 @@ public class Student {
         return name;
     }
 
-   
-    public void setaddress(String add) {
+    public void setaddress(String name) {
         this.address = add;
     }
    
